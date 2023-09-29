@@ -1,0 +1,14 @@
+D:\C#\practos2\practos2\bin\Debug\net6.0\practos2.exe
+D:\C#\practos2\practos2\bin\Debug\net6.0\practos2.deps.json
+D:\C#\practos2\practos2\bin\Debug\net6.0\practos2.runtimeconfig.json
+D:\C#\practos2\practos2\bin\Debug\net6.0\practos2.dll
+D:\C#\practos2\practos2\bin\Debug\net6.0\practos2.pdb
+D:\C#\practos2\practos2\obj\Debug\net6.0\practos2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\practos2\practos2\obj\Debug\net6.0\practos2.AssemblyInfoInputs.cache
+D:\C#\practos2\practos2\obj\Debug\net6.0\practos2.AssemblyInfo.cs
+D:\C#\practos2\practos2\obj\Debug\net6.0\practos2.csproj.CoreCompileInputs.cache
+D:\C#\practos2\practos2\obj\Debug\net6.0\practos2.dll
+D:\C#\practos2\practos2\obj\Debug\net6.0\refint\practos2.dll
+D:\C#\practos2\practos2\obj\Debug\net6.0\practos2.pdb
+D:\C#\practos2\practos2\obj\Debug\net6.0\practos2.genruntimeconfig.cache
+D:\C#\practos2\practos2\obj\Debug\net6.0\ref\practos2.dll
